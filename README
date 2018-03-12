@@ -1,0 +1,18 @@
+Run commands:
+
+For Downloading weights:
+			 python downloads.py 
+
+For training 
+      -Eg :  python main.py --train --hidden_unit=32 --model=lstm
+	    
+
+For testing 
+      -Eg :  python main.py --test --hidden_unit=32 --model=gru
+
+
+For generating plot
+             python main.py --plot
+
+
+
